@@ -7,19 +7,9 @@ on:
 
 jobs:
   update-readme:
-    permissions: write-all
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # following flags are required, only if this is not on
-          # profile readme, remove the leading `#` to use them
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-#           REPOSITORY: <yrf105/yrf105>
-#           SHOW_TITLE: true
-#           BLOCKS: ░▒▓█
-#           TIME_RANGE: all_time
-#           SHOW_TIME: true
-#           SHOW_MASKED_TIME: true
