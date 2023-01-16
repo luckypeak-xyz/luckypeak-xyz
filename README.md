@@ -18,14 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 January 2022 - To: 16 January 2023
-
-Total Time: 17 mins
-
-Markdown   9 mins          ████████████▓░░░░░░░░░░░░   50.60 %
-YAML       5 mins          ███████▒░░░░░░░░░░░░░░░░░   28.70 %
-HTML       2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
-INI        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
