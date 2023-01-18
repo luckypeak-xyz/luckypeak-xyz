@@ -1,4 +1,4 @@
-![header](https://github.com/yrf105/yrf105/blob/main/header.png)
+Hi, I'm Ruifeng Yue, currently a third-year master's student in Xidian University.
 
 <!--
 **yrf105/yrf105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
