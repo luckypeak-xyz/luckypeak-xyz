@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 February 2023 - To: 11 February 2023
+From: 05 February 2023 - To: 12 February 2023
 
-Total Time: 45 hrs 54 mins
+Total Time: 46 hrs
 
-Markdown     31 hrs 21 mins  █████████████████░░░░░░░░   68.32 %
-HTML         4 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-C++          3 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Go           2 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
-JavaScript   2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Markdown     29 hrs 27 mins  ████████████████░░░░░░░░░   64.02 %
+HTML         4 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+C++          3 hrs 36 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+JavaScript   3 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Go           3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 Python       50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
