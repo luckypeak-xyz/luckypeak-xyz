@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 March 2023 - To: 18 March 2023
+From: 12 March 2023 - To: 19 March 2023
 
-Total Time: 21 hrs 20 mins
+Total Time: 19 hrs 12 mins
 
-Markdown   18 hrs 7 mins   █████████████████████▒░░░   84.93 %
-C++        1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
-Other      30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Markdown   16 hrs 47 mins  ██████████████████████░░░   87.35 %
+C++        1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+Other      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
