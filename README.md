@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Total Time: 5 hrs 35 mins
+Total Time: 3 hrs 3 mins
 
-Markdown   4 hrs 6 mins    ██████████████████▒░░░░░░   73.60 %
-C++        1 hr 28 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Markdown   2 hrs 12 mins   ██████████████████░░░░░░░   72.02 %
+C++        51 mins         ███████░░░░░░░░░░░░░░░░░░   27.98 %
 ```
 
 <!--END_SECTION:waka-->
